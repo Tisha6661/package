@@ -1,0 +1,9 @@
+LICENSE.txt
+setup.py
+src/maths.py
+src/VirtualTrailRoom.egg-info/PKG-INFO
+src/VirtualTrailRoom.egg-info/SOURCES.txt
+src/VirtualTrailRoom.egg-info/dependency_links.txt
+src/VirtualTrailRoom.egg-info/requires.txt
+src/VirtualTrailRoom.egg-info/top_level.txt
+tests/test_helloworld.py

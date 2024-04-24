@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: Virtual-Trail-Room
+Version: 0.0.1
+Summary: The package is a virtual trail room for the customers to test clothes virtually.
+License-File: LICENSE.txt
+Requires-Dist: blessings~=1.7
+Provides-Extra: dev
+Requires-Dist: pytest>=3.7; extra == "dev"

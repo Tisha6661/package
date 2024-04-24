@@ -1,0 +1,8 @@
+LICENSE.txt
+setup.py
+VirtualTrailRoom.egg-info/PKG-INFO
+VirtualTrailRoom.egg-info/SOURCES.txt
+VirtualTrailRoom.egg-info/dependency_links.txt
+VirtualTrailRoom.egg-info/requires.txt
+VirtualTrailRoom.egg-info/top_level.txt
+tests/test_helloworld.py
